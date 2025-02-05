@@ -1,6 +1,6 @@
 #iclude<stdio.h>
 int main(void){
-    char a;
-    scanf("%c",&a);
+    int a;
+    scanf("%d",&a);
     printf("ASCII value: %d",a);
 }
