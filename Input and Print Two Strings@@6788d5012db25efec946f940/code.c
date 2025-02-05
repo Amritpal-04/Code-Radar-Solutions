@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
-    char a,b;
-    scanf("%c %c",&a,&b);
-    printf("You entered: %c and %c",a,b);
+    char a[10],b[10];
+    scanf("%s %s",&a,&b);
+    printf("You entered: %s and %s",a,b);
     return 0;
 }
