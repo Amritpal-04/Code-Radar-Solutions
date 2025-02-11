@@ -5,8 +5,9 @@ int main() {
     if (a>1){
         for (int i=1;i<=n;i++){
             c=a%n==0;
-            if (c==0)
-            break;
+            if (c==0){
+                break;
+            }
         }
         if (c==1){
             printf("Prime");
