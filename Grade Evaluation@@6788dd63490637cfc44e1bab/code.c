@@ -13,6 +13,6 @@ int main(void){
     }else if (a=='F'){
         printf("Fail");
     }else{
-        printf("Invalid grade0");
+        printf("Invalid grade");
     }
 }
