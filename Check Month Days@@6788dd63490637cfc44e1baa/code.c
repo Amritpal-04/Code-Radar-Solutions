@@ -26,5 +26,7 @@ int main(void){
         printf("30");
     }else if(a==12){
         printf("31");
+    }else {
+        printf("Invalid month")
     }
 }
