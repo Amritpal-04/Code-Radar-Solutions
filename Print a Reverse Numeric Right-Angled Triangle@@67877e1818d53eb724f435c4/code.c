@@ -6,7 +6,6 @@ int main(void){
         for(j=1;j>=rows-1;j--){
             printf("%d",j);
         }
-        printf("\n
-        ")
+        printf("\n")
     }
 }
