@@ -7,7 +7,7 @@ int main(void){
         if ((i+j)<=rows)
         printf(" ");
         else
-        printf("* ");//Upon space before star it will print triangle
+        printf("*");//Upon space before star it will print triangle
       }
       printf("\n");
      }
@@ -16,7 +16,7 @@ int main(void){
         if ((i+j)<=rows)
         printf(" ");
         else
-        printf("* ");//Upon space before star it will print triangle
+        printf("*");//Upon space before star it will print triangle
       }
       printf("\n");
      }
