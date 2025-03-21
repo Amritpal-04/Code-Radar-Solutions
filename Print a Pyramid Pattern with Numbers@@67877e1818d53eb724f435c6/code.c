@@ -5,7 +5,7 @@ void number_pyramid(int n){
             printf(" ");
         }
         for (int j=1;j<=i;j++){//print numbers
-            printf("%d ",i);
+            printf("%d ",j);
         }
         printf("\n");//move to the next line
     }
